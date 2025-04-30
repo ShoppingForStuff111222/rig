@@ -1,0 +1,25 @@
+local rigs = {
+local freeRig = {
+    ["https://assetdelivery.roblox.com/v1/asset/?id=7547179386"] = "Sword",
+    ["http://www.roblox.com/asset/?id=83293901"] = "Head",
+    ["rbxassetid://4819720316"] = "Torso",
+    ["rbxassetid://4154474745"] = "Left Arm",
+    ["rbxassetid://4094864753"] = "Right Arm",
+    ["rbxassetid://4324138105"] = "Right Leg",
+    ["rbxassetid://4489232754"] = "Left Leg",
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+  return rigs
