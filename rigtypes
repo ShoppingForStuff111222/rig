@@ -1,5 +1,5 @@
 local rigs = {
-local freeRig = {
+freeRig = {
     ["https://assetdelivery.roblox.com/v1/asset/?id=7547179386"] = "Sword",
     ["http://www.roblox.com/asset/?id=83293901"] = "Head",
     ["rbxassetid://4819720316"] = "Torso",
