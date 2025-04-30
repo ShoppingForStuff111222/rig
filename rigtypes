@@ -1,4 +1,3 @@
-print("UPDATED")
 local rigs = {
 freeRig = {
     ["https://assetdelivery.roblox.com/v1/asset/?id=7547179386"] = "Sword",
@@ -8,7 +7,17 @@ freeRig = {
     ["rbxassetid://4094864753"] = "Right Arm",
     ["rbxassetid://4324138105"] = "Right Leg",
     ["rbxassetid://4489232754"] = "Left Leg",
-}
+},
+
+noobRig = {
+    ["rbxassetid://15940018311"] = "Sword",
+    ["rbxassetid://10678041395"] = "Head",
+    ["rbxassetid://126825022897778"] = "Torso",
+    ["rbxassetid://137702817952968"] = "Left Arm",
+    ["rbxassetid://137702817952968"] = "Right Arm",
+    ["rbxassetid://137702817952968"] = "Right Leg",
+    ["rbxassetid://137702817952968"] = "Left Leg",
+},
 
 
 
