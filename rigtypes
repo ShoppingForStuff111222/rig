@@ -14,11 +14,12 @@ noobRig = {
     ["rbxassetid://15940018311"] = "Sword",
     ["rbxassetid://10678041395"] = "Head",
     ["rbxassetid://126825022897778"] = "Torso",
-    ["rbxassetid://137702817952968"] = "Left Arm",
-    ["rbxassetid://137702817952968"] = "Right Arm",
-    ["rbxassetid://137702817952968"] = "Right Leg",
-    ["rbxassetid://137702817952968"] = "Left Leg",
-},
+    ["rbxassetid://137702817952968*1"] = "Left Arm",
+    ["rbxassetid://137702817952968*2"] = "Right Arm",
+    ["rbxassetid://137702817952968*3"] = "Right Leg",
+    ["rbxassetid://137702817952968*4"] = "Left Leg",
+}
+
 
 
 
