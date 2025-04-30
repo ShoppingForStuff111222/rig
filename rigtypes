@@ -25,11 +25,11 @@ noobRig = {
     ["Right Arm"] = "rbxassetid://137702817952968",
     ["Right Leg"] = {
 meshID = "rbxassetid://137702817952968",
-textureID = " rbxassetid://73798034827573",
+textureID = "rbxassetid://73798034827573",
     },
     ["Left Leg"] = {
 meshID = "rbxassetid://137702817952968",
-textureID = " rbxassetid://73798034827573",
+textureID = "rbxassetid://73798034827573",
     },
 
 
