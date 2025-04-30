@@ -1,3 +1,4 @@
+print("UPDATED")
 local rigs = {
 freeRig = {
     ["https://assetdelivery.roblox.com/v1/asset/?id=7547179386"] = "Sword",
