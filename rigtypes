@@ -44,6 +44,32 @@ rotation2 = Vector3.new(0, 0, 90),
 },
 },
 
+herobrineRig = {
+    ["Sword"] = "rbxassetid://93092446993746",
+    ["Head"] = "rbxassetid://128149822730760",
+    ["Torso"] = "rbxassetid://126825022897778",
+    ["Left Arm"] = "rbxassetid://83790037769449",
+    ["Right Arm"] = "rbxassetid://103154813376641",
+    ["Right Leg"] = {
+meshID = "rbxassetid://116065550624619",
+textureID = "rbxassetid://136126301333104",
+    },
+    ["Left Leg"] = {
+meshID = "rbxassetid://134713183001349",
+textureID = "rbxassetid://77630220285274",
+    },
+
+
+
+
+    ["Info"] = {
+
+rotation1 = nil,
+rotation2 = nil,
+    cframeVal = CFrame.new(-3.81469727e-06, -1, -2.5, -0.0327411443, 0.0313976407, 0.998970568, 0.692143142, 0.721760273, -1.11758709e-08, -0.721017241, 0.691430628, -0.0453629196),
+
+},
+},
 
 
 
