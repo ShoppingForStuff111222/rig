@@ -20,35 +20,6 @@ attachPos2 = Vector3.new(0.21, 0, 0),
 },
 
 
-noobRig = {
-    ["Sword"] = "rbxassetid://15141202575",
-    ["Head"] = "rbxassetid://10678041395",
-    ["Torso"] = "rbxassetid://126825022897778",
-    ["Left Arm"] = "rbxassetid://137702817952968",
-    ["Right Arm"] = "rbxassetid://137702817952968",
-    ["Right Leg"] = {
-meshID = "rbxassetid://137702817952968",
-textureID = "rbxassetid://73798034827573",
-    },
-    ["Left Leg"] = {
-meshID = "rbxassetid://137702817952968",
-textureID = "rbxassetid://73798034827573",
-    },
-
-
-
-
-    ["Info"] = {
-
-rotation1 = Vector3.new(0, 0, -90),
-rotation2 = Vector3.new(0, 0, 90),
-    cframeVal = CFrame.new(-3.81469727e-06, -1, -2.5, -0.0327411443, 0.0313976407, 0.998970568, 0.692143142, 0.721760273, -1.11758709e-08, -0.721017241, 0.691430628, -0.0453629196),
-
-
-
-},
-},
-
 wereWolfRig = {
    -- ["Sword"] = "rbxassetid://93092446993746",
     ["Head"] = "rbxassetid://74618734634571",
