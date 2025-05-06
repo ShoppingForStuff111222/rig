@@ -1,0 +1,45 @@
+local rigs = {
+
+
+    DarknessRig = {
+        ["Sword"] = "rbxassetid://17613685734",
+          ["Gun"] = "rbxassetid://8654197445",
+      ["Hat"] = "rbxassetid://16500921185",
+      ["Spider"] = "rbxassetid://14027712850",
+    ["Head"] = "rbxassetid://13004399826",
+        ["Torso"] = "rbxassetid://100185816449786",
+        ["Left Arm"] = "rbxassetid://88252207064016",
+        ["Right Arm"] = "rbxassetid://88252207064016",
+        ["Right Leg"] = {
+    meshID = "rbxassetid://103750619228745",
+    textureID = "rbxassetid://114290511594888",
+        },
+        ["Left Leg"] = {
+    meshID = "rbxassetid://114532226623846",
+    textureID = "rbxassetid://114290511594888",
+        },
+    
+    
+    
+    
+        ["Info"] = {
+    
+    rotation1 = nil,
+    rotation2 = nil,
+    rotation3 = nil,
+    pos1 = Vector3.new(0, 1, 0),
+    cframeVal = CFrame.new(0, -0.999999046, -1.70000005, -3.20723501e-08, -2.96993257e-08, 1, -0.679441273, 0.733729899, 5.32907052e-15, -0.733729899, -0.679441273, -4.37113883e-08),
+    
+    
+    
+    },
+    },
+    
+    
+    
+    
+    
+    
+    }
+      return rigs
+    
