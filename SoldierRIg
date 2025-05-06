@@ -28,7 +28,7 @@ local rigs = {
     rotation1 = nil,
     rotation2 = nil,
     rotation3 = nil,
-    pos1 = Vector3.new(0, 1, 0),
+    pos1 = Vector3.new(0, 0.7, 0),
     cframeVal = CFrame.new(0, -0.999999046, -1.70000005, -3.20723501e-08, -2.96993257e-08, 1, -0.679441273, 0.733729899, 5.32907052e-15, -0.733729899, -0.679441273, -4.37113883e-08),
     
     
