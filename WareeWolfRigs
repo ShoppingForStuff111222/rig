@@ -1,6 +1,5 @@
 local rigs = {
 freeRig = {
-    ["Sword"] = "https://assetdelivery.roblox.com/v1/asset/?id=7547179386",
     ["Head"] = "http://www.roblox.com/asset/?id=83293901",
     ["Torso"] = "rbxassetid://4819720316",
     ["Left Arm"] = "rbxassetid://4154474745",
@@ -21,7 +20,6 @@ attachPos2 = Vector3.new(0.21, 0, 0),
 
 
 wereWolfRig = {
-   -- ["Sword"] = "rbxassetid://93092446993746",
     ["Head"] = "rbxassetid://74618734634571",
     ["Torso"] = "rbxassetid://97381508430629",
     ["Left Arm"] = "rbxassetid://111908002648203",
