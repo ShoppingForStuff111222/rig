@@ -15,7 +15,15 @@ rotation2 = Vector3.new(0, 0, 90),
 trailColor = ColorSequence.new(Color3.fromRGB(179, 255, 0)),
 attachPos1 = Vector3.new(-1.85, -2.2, -0),
 attachPos2 = Vector3.new(0.21, 0, 0),
-
+SwordAttachmentVectors = {
+Vector3.new(-1.921, -1.253, 0.192), 
+Vector3.new(-1.704, -1.82, 0.208), 
+Vector3.new(-1.37, -1.408, 0.166), 
+Vector3.new(-0.789, -0.783, 0.097), 
+Vector3.new(-0.366, -0.28, 0.044), 
+Vector3.new(0.028, 0.203, -0.005), 
+Vector3.new(0.361, 0.725, -0.053), 
+},
 
 },
 },
@@ -47,7 +55,14 @@ rotation2 = Vector3.new(0, 0, 90),
 trailColor = ColorSequence.new(Color3.fromRGB(255, 179, 0)),
 attachPos1 = Vector3.new(2.29, -2.2, 0),
 attachPos2 = Vector3.new(0.21, 0, 0),
-
+SwordAttachmentVectors = {
+Vector3.new(2.14, -2.16, 0), 
+Vector3.new(1.48, -1.51, 0), 
+Vector3.new(0.86, -0.89, 0), 
+Vector3.new(0.16, -0.22, 0), 
+Vector3.new(-0.35, 0.29, 0), 
+Vector3.new(-0.93, 0.88, 0), 
+},
 
 
 },
@@ -80,7 +95,14 @@ cframeVal = CFrame.new(0, -0.999999046, -1.70000005, -3.20723501e-08, -2.9699325
 trailColor = ColorSequence.new(Color3.fromRGB(106, 0, 255)),
 attachPos1 = Vector3.new(0, 0.4, 0),
 attachPos2 = Vector3.new(1.4, 1.8, 0),
-
+SwordAttachmentVectors = {
+Vector3.new(1.88, 1.91, 0), 
+Vector3.new(1.29, 1.29, 0), 
+Vector3.new(0.78, 0.75, 0), 
+Vector3.new(0.34, 0.33, 0), 
+Vector3.new(-0.02, -0.03, 0), 
+Vector3.new(-0.53, -0.53, 0), 
+},
 
 },
 },
