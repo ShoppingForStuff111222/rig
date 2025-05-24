@@ -1,4 +1,4 @@
-print("hghghghghgghgh")
+print("CHANGED")
 local rigs = {
 
 
@@ -9,7 +9,7 @@ local rigs = {
       ["Spider"] = "rbxassetid://14027712850",
     ["Head"] = "rbxassetid://13004399826",
         ["Torso"] = "rbxassetid://100185816449786",
-        ["Left Arm"] = "rbxassetid://88252207064016",
+        ["Left Arm"] = "rbxassetid://85336536194577",
         ["Right Arm"] = "rbxassetid://88252207064016",
         ["Right Leg"] = {
     meshID = "rbxassetid://103750619228745",
