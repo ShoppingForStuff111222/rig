@@ -4,7 +4,7 @@ local rigs = {
 
     DarknessRig = {
         ["Sword"] = "rbxassetid://17613685734",
-          ["Gun"] = "rbxassetid://8654197445",
+          ["Gun"] = "rbxassetid://18136651721",
       ["Hat"] = "rbxassetid://16500686626",
       ["Spider"] = "rbxassetid://14027712850",
     ["Head"] = "rbxassetid://13004399826",
